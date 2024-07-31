@@ -287,3 +287,8 @@ footer {
 .footerbottom {
   color: white;
 }
+hr {
+  margin: 0 100px;
+  margin-top: 120px;
+  color: rgb(237, 0, 0);
+}
